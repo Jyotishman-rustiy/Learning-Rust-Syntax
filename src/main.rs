@@ -5,10 +5,12 @@ mod  module_2_control_flow_examplex;
 mod  module_3_functions_closure_examples;
 mod module_04_data_structures_examples;
 mod module_05_ownership_example;
+mod    module_06_struct_examples;
 fn main() {
     module_1_data_types_examples::demo();
     module_2_control_flow_examplex::demo();
     module_3_functions_closure_examples::demo();
     module_04_data_structures_examples::demo();
     module_05_ownership_example::demo();
+module_06_struct_examples::demo()
 }
